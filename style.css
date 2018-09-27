@@ -1,0 +1,22 @@
+h3 {
+	color: purple;
+	background: #dbc662;
+	text-align: left;
+}
+body {
+
+}
+.NickText {
+	background: plum;
+	text: maroon;
+}
+.dolphins {
+	transform: rotate(-40deg);
+	background: grey;
+}
+.NickText.dolphins {
+	background: grey;
+}
+.imgDolphin {
+	width: 100%;
+}
